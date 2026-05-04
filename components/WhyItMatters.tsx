@@ -3,37 +3,37 @@ export default function WhyItMatters() {
     {
       emoji: "📜",
       title: "RC Said It in 2019",
-      body: "In his original letter to GameStop's board, Ryan Cohen explicitly outlined using GameStop stores as eBay-style fulfillment hubs. He's been playing chess while others played checkers.",
+      body: "The original letter to GameStop's board literally talked about stores as eBay-style fulfillment hubs. It was in the DD. Apes screenshotted it 1,000 times. RC wasn't joking.",
       color: "purple",
     },
     {
       emoji: "🏪",
-      title: "4,000+ Stores as Fulfillment Centers",
-      body: "GameStop's nationwide retail footprint becomes a same-day delivery weapon against Amazon. Physical locations + eBay's 132M buyers = a real competitor to Amazon for the first time.",
+      title: "4,000 Stores. Same-Day. Nationwide.",
+      body: "Every GameStop becomes a fulfillment node. 132M eBay buyers + physical retail = Amazon has never had real competition until now. The smoothbrains at HF twitter didn't see this coming.",
       color: "yellow",
     },
     {
       emoji: "💸",
-      title: "GME's War Chest",
-      body: "GameStop has been quietly stacking cash for years. RC didn't just hodl — he was building the balance sheet to make a move like this. $56 billion. That's the play.",
+      title: "RC Built a $56B War Chest",
+      body: "He didn't just cut costs and go quiet. He was stacking cash, running lean, and waiting. Every 'GameStop is dead' headline aged like milk. This is what the long game looks like.",
       color: "purple",
     },
     {
       emoji: "🦍",
-      title: "Apes Called It",
-      body: "Years of DD on Superstonk pointed to eBay. The community connected RC's letter to eBay long before this offer. Sometimes the smoothbrains are right.",
+      title: "The DD Was Right",
+      body: "Superstonk connected RC's eBay thesis years before this offer. Not financial advice — just apes reading letters and doing math. I am once again not surprised.",
       color: "yellow",
     },
     {
       emoji: "🎮",
-      title: "GameStop → Commerce Giant",
-      body: "This isn't a meme stock pivot. This is RC executing a multi-year plan to transform GameStop from a dying retail chain into a full-stack e-commerce powerhouse.",
+      title: "Not a Meme. A Plan.",
+      body: "Every time someone called GME a meme stock, RC was quietly executing. Stores stayed open. Cash stacked up. Now he's swinging $56B. Still think it's a meme?",
       color: "purple",
     },
     {
       emoji: "🚀",
-      title: "Amazon. But Make It GME.",
-      body: "eBay's $56B price tag looks cheap when you consider the combined entity could legitimately challenge Amazon's marketplace dominance. That's the Cohen thesis.",
+      title: "Amazon Finally Has a Rival",
+      body: "GME stores + eBay's 132M buyers + RC's ruthless execution = the first legitimate Amazon competitor since Amazon killed everyone else. Buckle up.",
       color: "yellow",
     },
   ];
@@ -43,10 +43,10 @@ export default function WhyItMatters() {
       <div className="max-w-5xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-black text-white mb-3">
-            🧠 Why This Changes Everything
+            🧠 Why Apes Aren&apos;t Surprised
           </h2>
           <p className="text-gray-400 text-lg max-w-xl mx-auto">
-            This isn't noise. This is years of RC's thesis playing out in real
+            The DD was there. Apes read it. RC is now executing it in real
             time.
           </p>
         </div>

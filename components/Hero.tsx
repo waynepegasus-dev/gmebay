@@ -44,19 +44,18 @@ export default function Hero() {
         </div>
 
         <p className="text-3xl md:text-4xl font-black text-white mb-3 leading-tight">
-          Ryan Cohen Is Buying eBay. 🎮🛒
+          RC just put in a $56B offer for eBay. No dates. 🎮🛒
         </p>
 
         <p className="text-gray-300 text-lg md:text-xl max-w-2xl mx-auto mb-4 leading-relaxed">
-          GameStop has built a 5% stake and launched an unsolicited{" "}
-          <span className="text-yellow-400 font-bold">$56 billion offer</span>{" "}
-          at{" "}
-          <span className="text-yellow-400 font-bold">$125/share</span> to
-          acquire eBay. The apes called it. RC is delivering.
+          GameStop built a 5% stake quietly, then RC told the WSJ himself —
+          {" "}<span className="text-yellow-400 font-bold">$125/share</span>,
+          {" "}<span className="text-yellow-400 font-bold">$56 billion</span>, cash + stock.
+          Superstonk called this years ago. RC just confirmed it.
         </p>
 
         <p className="text-purple-400 font-bold text-lg mb-10">
-          💎 Diamond hands. One deal at a time. 🚀
+          🦍 Apes together strong. 💎🙌
         </p>
 
         <div className="flex flex-wrap justify-center gap-4 mb-14">
