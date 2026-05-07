@@ -1,39 +1,39 @@
 export default function WhyItMatters() {
   const points: { emoji: string; title: string; body: string; color: "yellow" | "purple" }[] = [
     {
-      emoji: "📜",
-      title: "RC Said It in 2019",
-      body: "The original letter to GameStop's board literally talked about stores as eBay-style fulfillment hubs. It was in the DD. Apes screenshotted it 1,000 times. RC wasn't joking.",
+      emoji: "🛒",
+      title: "Marketplace Ready",
+      body: "The name instantly signals buying and selling. Drop it on any trading, auction, or resale platform and it clicks immediately — no explanation needed.",
       color: "purple",
     },
     {
-      emoji: "🏪",
-      title: "4,000 Stores. Same-Day. Nationwide.",
-      body: "Every GameStop becomes a fulfillment node. 132M eBay buyers + physical retail = Amazon has never had real competition until now. The smoothbrains at HF twitter didn't see this coming.",
+      emoji: "🧠",
+      title: "Unforgettable Brand",
+      body: "Six letters, zero ambiguity. gmebay.com sticks in your head the first time you hear it. That's the hardest thing to buy — and it's already baked in.",
       color: "yellow",
     },
     {
-      emoji: "💸",
-      title: "RC Built a $56B War Chest",
-      body: "He didn't just cut costs and go quiet. He was stacking cash, running lean, and waiting. Every 'GameStop is dead' headline aged like milk. This is what the long game looks like.",
+      emoji: "🏗️",
+      title: "Site Already Built",
+      body: "Most domain sales are just a name. This one comes with a fully built Next.js web app — components, styling, structure — ready to customize and deploy on day one.",
       color: "purple",
-    },
-    {
-      emoji: "🦍",
-      title: "The DD Was Right",
-      body: "Superstonk connected RC's eBay thesis years before this offer. Not financial advice — just apes reading letters and doing math. I am once again not surprised.",
-      color: "yellow",
     },
     {
       emoji: "🎮",
-      title: "Not a Meme. A Plan.",
-      body: "Every time someone called GME a meme stock, RC was quietly executing. Stores stayed open. Cash stacked up. Now he's swinging $56B. Still think it's a meme?",
+      title: "Gaming & Collectibles Angle",
+      body: "The name has natural appeal to gaming communities, collectibles markets, and secondhand gear resellers. A ready-made audience is already primed for this brand.",
+      color: "yellow",
+    },
+    {
+      emoji: "🔒",
+      title: "Safe, Fast Transfer",
+      body: "Transaction via Escrow.com — funds held until domain is confirmed in your account. No risk, no sketchy handoffs. Clean and professional.",
       color: "purple",
     },
     {
       emoji: "🚀",
-      title: "Amazon Finally Has a Rival",
-      body: "GME stores + eBay's 132M buyers + RC's ruthless execution = the first legitimate Amazon competitor since Amazon killed everyone else. Buckle up.",
+      title: ".com Still Wins",
+      body: "In a world full of .io, .co, and .xyz, a clean .com is still king. Customers trust it. Search engines favor it. Investors recognize it. Don't settle for less.",
       color: "yellow",
     },
   ];
@@ -43,11 +43,10 @@ export default function WhyItMatters() {
       <div className="max-w-5xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-black text-white mb-3">
-            🧠 Why Apes Aren&apos;t Surprised
+            💡 Why gmebay.com?
           </h2>
           <p className="text-gray-400 text-lg max-w-xl mx-auto">
-            The DD was there. Apes read it. RC is now executing it in real
-            time.
+            Great domains are rare. This one is short, branded, and comes with a head start.
           </p>
         </div>
 
