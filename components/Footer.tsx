@@ -38,7 +38,7 @@ export default function Footer() {
 
         <div className="border-t border-white/5 pt-6 flex flex-col md:flex-row justify-between items-center gap-3">
           <p className="text-gray-700 text-xs text-center md:text-left">
-            Transfer via Escrow.com. Domain + full Next.js codebase included.
+            Transfer via Escrow.com. Fast and secure.
           </p>
           <p className="text-gray-700 text-xs">
             © 2026 gmebay.com

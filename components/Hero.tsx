@@ -53,7 +53,7 @@ export default function Hero() {
         </p>
 
         <p className="text-purple-400 font-bold text-lg mb-10">
-          💎 Includes a fully built Next.js site — ready to deploy.
+          💎 Short. Brandable. Premium .com — ready for the right buyer.
         </p>
 
         <div className="flex flex-wrap justify-center gap-4 mb-14">
@@ -75,7 +75,7 @@ export default function Hero() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-3 max-w-3xl mx-auto">
           <StatCard emoji="🌐" label="Extension" value=".com" sub="most trusted TLD" color="yellow" />
           <StatCard emoji="✂️" label="Length" value="6 chars" sub="short & punchy" color="purple" />
-          <StatCard emoji="🏗️" label="Site Included" value="Yes" sub="Next.js built" color="yellow" />
+          <StatCard emoji="⚡" label="Ready Now" value="Fast" sub="transfer today" color="yellow" />
           <StatCard emoji="📦" label="Transfer" value="Fast" sub="via Escrow.com" color="purple" />
         </div>
       </div>

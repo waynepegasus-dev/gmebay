@@ -13,9 +13,9 @@ export default function WhyItMatters() {
       color: "yellow",
     },
     {
-      emoji: "🏗️",
-      title: "Site Already Built",
-      body: "Most domain sales are just a name. This one comes with a fully built Next.js web app — components, styling, structure — ready to customize and deploy on day one.",
+      emoji: "💼",
+      title: "Turn-Key Brand Asset",
+      body: "This isn't just a domain — it's a brand. The name does the heavy lifting from day one. No explaining, no awkward spelling, no second-guessing.",
       color: "purple",
     },
     {

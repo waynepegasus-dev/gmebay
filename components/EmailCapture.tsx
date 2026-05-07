@@ -20,7 +20,7 @@ export default function EmailCapture() {
           <span className="text-purple-400 font-semibold">Transaction via Escrow.com</span> for both parties&apos; protection.
         </p>
         <p className="text-gray-600 text-sm mb-10">
-          Domain + full Next.js site source code included. Fast transfer once terms are agreed.
+          Fast transfer once terms are agreed. Transaction via Escrow.com.
         </p>
 
         {/* Contact CTA */}
@@ -54,7 +54,7 @@ export default function EmailCapture() {
           <div className="flex justify-center gap-3 flex-wrap">
             <a
               href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(
-                "gmebay.com is for sale — short, brandable .com perfect for a marketplace or trading platform. Domain + full Next.js site included.\n\nhttps://gmebay.com"
+                "gmebay.com is for sale — short, brandable .com perfect for a marketplace or trading platform.\n\nhttps://gmebay.com"
               )}`}
               target="_blank"
               rel="noopener noreferrer"
@@ -66,7 +66,7 @@ export default function EmailCapture() {
               href={`https://www.reddit.com/submit?url=${encodeURIComponent(
                 "https://gmebay.com"
               )}&title=${encodeURIComponent(
-                "gmebay.com for sale — premium domain + built Next.js site"
+                "gmebay.com for sale — premium .com domain"
               )}`}
               target="_blank"
               rel="noopener noreferrer"

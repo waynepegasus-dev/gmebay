@@ -4,7 +4,6 @@ export default function DealTracker() {
     ["Extension", ".com"],
     ["Length", "6 characters"],
     ["Age", "Registered 2025"],
-    ["Site Included", "Yes — full Next.js codebase"],
     ["Transfer Method", "Escrow.com (secure)"],
     ["Timeframe", "Fast — ready to transfer now"],
     ["Best Fit", "Marketplace, trading platform, collectibles, gaming resale"],
@@ -35,7 +34,7 @@ export default function DealTracker() {
             </span>
           </div>
           <p className="text-white font-bold text-xl">
-            🌐 gmebay.com + Full Next.js Website Source Code
+            🌐 gmebay.com — Premium .com Domain
           </p>
         </div>
 
@@ -51,23 +50,7 @@ export default function DealTracker() {
           </div>
         </div>
 
-        {/* Tech stack */}
-        <div className="bg-white/3 border border-white/10 rounded-2xl p-6">
-          <h3 className="text-white font-black text-lg mb-4">🏗️ Included Site Tech Stack</h3>
-          <div className="flex flex-wrap gap-2">
-            {["Next.js 15", "TypeScript", "Tailwind CSS", "React", "App Router", "API Routes", "Vercel-ready"].map((tech) => (
-              <span
-                key={tech}
-                className="bg-purple-500/10 border border-purple-500/20 text-purple-300 text-sm font-semibold px-3 py-1 rounded-full"
-              >
-                {tech}
-              </span>
-            ))}
-          </div>
-          <p className="text-gray-500 text-sm mt-4">
-            Deploy to Vercel in minutes. Customize the design, content, and features to fit your brand.
-          </p>
-        </div>
+
       </div>
     </section>
   );
